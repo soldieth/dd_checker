@@ -1,0 +1,354 @@
+{
+  "nfts": [
+    {
+      "number": 8361,
+      "class": "Marksman",
+      "price_sol": 3.78,
+      "combat": 1,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/8361.png"
+    },
+    {
+      "number": 4625,
+      "class": "Mage",
+      "price_sol": 3.8,
+      "combat": 1,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/4625.png"
+    },
+    {
+      "number": 723,
+      "class": "Mage",
+      "price_sol": 3.8,
+      "combat": 87,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/6723.png"
+    },
+    {
+      "number": 2917,
+      "class": "Warrior",
+      "price_sol": 3.83,
+      "combat": 1,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/2917.png"
+    },
+    {
+      "number": 51,
+      "class": "Mage",
+      "price_sol": 3.83,
+      "combat": 116,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/5171.png"
+    },
+    {
+      "number": 6361,
+      "class": "Mage",
+      "price_sol": 3.83,
+      "combat": 13,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/6361.png"
+    },
+    {
+      "number": 8185,
+      "class": "Marksman",
+      "price_sol": 3.83,
+      "combat": 1,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/8185.png"
+    },
+    {
+      "number": 120,
+      "class": "Marksman",
+      "price_sol": 3.85,
+      "combat": 64,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/10120.png"
+    },
+    {
+      "number": 1762,
+      "class": "Warrior",
+      "price_sol": 3.85,
+      "combat": 1,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/1762.png"
+    },
+    {
+      "number": 4367,
+      "class": "Mage",
+      "price_sol": 3.88,
+      "combat": 1,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/4367.png"
+    },
+    {
+      "number": 2322,
+      "class": "Warrior",
+      "price_sol": 3.9,
+      "combat": 1,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/2322.png"
+    },
+    {
+      "number": 1907,
+      "class": "Warrior",
+      "price_sol": 3.9,
+      "combat": 1,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/1907.png"
+    },
+    {
+      "number": 8447,
+      "class": "Marksman",
+      "price_sol": 3.9,
+      "combat": 1,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/8447.png"
+    },
+    {
+      "number": 2705,
+      "class": "Warrior",
+      "price_sol": 3.92,
+      "combat": 1,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/2705.png"
+    },
+    {
+      "number": 7459,
+      "class": "Marksman",
+      "price_sol": 3.95,
+      "combat": 1,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/7459.png"
+    },
+    {
+      "number": 8949,
+      "class": "Marksman",
+      "price_sol": 3.96,
+      "combat": 7,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/8949.png"
+    },
+    {
+      "number": 7217,
+      "class": "Marksman",
+      "price_sol": 3.9689,
+      "combat": 1,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/7217.png"
+    },
+    {
+      "number": 10386,
+      "class": "Marksman",
+      "price_sol": 3.99,
+      "combat": 1,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/10386.png"
+    },
+    {
+      "number": 10211,
+      "class": "Marksman",
+      "price_sol": 3.99,
+      "combat": 1,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/10211.png"
+    },
+    {
+      "number": 2491,
+      "class": "Warrior",
+      "price_sol": 3.99,
+      "combat": 22,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/2491.png"
+    },
+    {
+      "number": 7507,
+      "class": "Marksman",
+      "price_sol": 3.99,
+      "combat": 1,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/7507.png"
+    },
+    {
+      "number": 1078,
+      "class": "Warrior",
+      "price_sol": 3.99,
+      "combat": 1,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/1078.png"
+    },
+    {
+      "number": 3282,
+      "class": "Warrior",
+      "price_sol": 3.99,
+      "combat": 1,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/3282.png"
+    },
+    {
+      "number": 7778,
+      "class": "Marksman",
+      "price_sol": 3.99,
+      "combat": 1,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/7778.png"
+    },
+    {
+      "number": 1684,
+      "class": "Warrior",
+      "price_sol": 4.0,
+      "combat": 1,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/1684.png"
+    },
+    {
+      "number": 1844,
+      "class": "Warrior",
+      "price_sol": 4.0,
+      "combat": 1,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/1844.png"
+    },
+    {
+      "number": 7901,
+      "class": "Marksman",
+      "price_sol": 4.0,
+      "combat": 1,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/7901.png"
+    },
+    {
+      "number": 2428,
+      "class": "Warrior",
+      "price_sol": 4.0,
+      "combat": 15,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/2428.png"
+    },
+    {
+      "number": 2527,
+      "class": "Warrior",
+      "price_sol": 4.0,
+      "combat": 1,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/2527.png"
+    },
+    {
+      "number": 7237,
+      "class": "Marksman",
+      "price_sol": 4.0,
+      "combat": 1,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/7237.png"
+    },
+    {
+      "number": 7641,
+      "class": "Marksman",
+      "price_sol": 4.0,
+      "combat": 1,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/7641.png"
+    },
+    {
+      "number": 2906,
+      "class": "Warrior",
+      "price_sol": 4.0,
+      "combat": 1,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/2906.png"
+    },
+    {
+      "number": 2764,
+      "class": "Warrior",
+      "price_sol": 4.0,
+      "combat": 1,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/2764.png"
+    },
+    {
+      "number": 9217,
+      "class": "Marksman",
+      "price_sol": 4.0,
+      "combat": 1,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/9217.png"
+    },
+    {
+      "number": 8165,
+      "class": "Marksman",
+      "price_sol": 4.0,
+      "combat": 1,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/8165.png"
+    },
+    {
+      "number": 6256,
+      "class": "Mage",
+      "price_sol": 4.0,
+      "combat": 1,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/6256.png"
+    },
+    {
+      "number": 336,
+      "class": "Warrior",
+      "price_sol": 4.0,
+      "combat": 101,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/3360.png"
+    },
+    {
+      "number": 826,
+      "class": "Marksman",
+      "price_sol": 4.0,
+      "combat": 90,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/8261.png"
+    },
+    {
+      "number": 8711,
+      "class": "Marksman",
+      "price_sol": 4.0,
+      "combat": 1,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/8711.png"
+    },
+    {
+      "number": 3708,
+      "class": "Mage",
+      "price_sol": 4.0,
+      "combat": 1,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/3708.png"
+    },
+    {
+      "number": 8659,
+      "class": "Marksman",
+      "price_sol": 4.0,
+      "combat": 1,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/8659.png"
+    },
+    {
+      "number": 4181,
+      "class": "Mage",
+      "price_sol": 4.0,
+      "combat": 1,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/4181.png"
+    },
+    {
+      "number": 627,
+      "class": "Mage",
+      "price_sol": 4.0,
+      "combat": 103,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/5627.png"
+    },
+    {
+      "number": 4542,
+      "class": "Mage",
+      "price_sol": 4.0,
+      "combat": 1,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/4542.png"
+    },
+    {
+      "number": 4739,
+      "class": "Mage",
+      "price_sol": 4.0,
+      "combat": 1,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/4739.png"
+    },
+    {
+      "number": 10248,
+      "class": "Marksman",
+      "price_sol": 4.0,
+      "combat": 1,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/10248.png"
+    },
+    {
+      "number": 8388,
+      "class": "Marksman",
+      "price_sol": 4.0,
+      "combat": 1,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/8388.png"
+    },
+    {
+      "number": 10282,
+      "class": "Marksman",
+      "price_sol": 4.0,
+      "combat": 1,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/10282.png"
+    },
+    {
+      "number": 3,
+      "class": "Warrior",
+      "price_sol": 4.0,
+      "combat": 126,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/1314.png"
+    },
+    {
+      "number": 2318,
+      "class": "Warrior",
+      "price_sol": 4.0,
+      "combat": 1,
+      "image": "https://bafybeidixonylnqtxzezo3gysjlmj4nvf7vu777ykw2m4kgo42lcu3yty4.ipfs.w3s.link/2318.png"
+    }
+  ]
+} 
